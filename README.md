@@ -1,1 +1,1 @@
-# Finished codecademy project: "colmar academy"
+# Finished codecademy intensive project: "colmar academy"
